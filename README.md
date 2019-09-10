@@ -15,7 +15,7 @@ $ npm i
 Para rodar o app
 
 ```
-npm run dev
+$ npm run dev
 ```
 
 Abra o navegador e entre com o endereço: http://127.0.0.1:5000/
